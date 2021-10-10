@@ -22,8 +22,8 @@ Foi pensado inicialmente um único botão para que o dinossauro pule e, para des
 - 2 Resistores de 1K&Omega;
 - 1 Buzzer;
 
-![Protótipo do circuito](https://user-images.githubusercontent.com/37456348/136661874-edc2395c-0622-415f-b0c2-76c6f7033fdb.png)
-Você pode acessar o protótipo <a href="https://www.tinkercad.com/things/aBuyB667oZ1-copy-of-sebix/editel?sharecode=edp_9k4zM-2bgaVkIje4OQYJTzTaO_jW9YBEr3xnOBY">Clicando Aqui</a>.
+![Protótipo do circuito](https://user-images.githubusercontent.com/37456348/136707507-676a9491-6ca8-4b2e-b477-5d067f1e295c.png)
+Você pode acessar o protótipo <a href="https://www.tinkercad.com/things/aBuyB667oZ1-projeto-sebix-2021-grupo-2/editel?sharecode=ph_fwuVlIoaRs9A8ReaDCT7rvYecoMuUgHqlTlmYOHI">Clicando Aqui</a>.
 
 <hr />
 
